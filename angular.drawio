@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T05:22:20.914Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="0yjMnAXSEUiZbWeN-KlC" version="14.8.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-16T08:41:34.169Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="AOc1wM4kXnyBf83hNKKg" version="14.8.6" type="github" pages="7">
   <diagram id="aH4e2wyQSKIq5Tm5kMq8" name="content">
-    <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,34 +11,34 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Y3FVK3pYP46B7UsA1pwi" name="what is angular">
-    <mxGraphModel dx="1398" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1082" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="Xeo-ucVvWirNHpCaYBjT-0" />
         <mxCell id="Xeo-ucVvWirNHpCaYBjT-1" parent="Xeo-ucVvWirNHpCaYBjT-0" />
-        <mxCell id="Xeo-ucVvWirNHpCaYBjT-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;em style=&quot;box-sizing: border-box; overflow-wrap: break-word; color: rgb(85, 85, 85); font-family: &amp;quot;titillium web&amp;quot;, arial, sans-serif; font-size: 14px; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;Angular&lt;/em&gt;&lt;span style=&quot;color: rgb(85, 85, 85); font-family: &amp;quot;titillium web&amp;quot;, arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;&amp;nbsp;เป็น Front-end JavaScript Framework ที่ทำงานบนฝั่ง Client ที่เรานำไปสร้าง Reactive Single Page Applications (SPA) ซึ่งก็คือทุกๆหน้าจะถูกโหลดมารวมอยู่ในหน้าเดียว การคลิ๊กเปลี่ยนหน้าหรือการคลิ๊กปุ่มต่างๆ จะทำให้เรารู้สึกเหมือนเป็น Desktop Application ที่ไม่มีการโหลดเปลี่ยนหน้า Angular เป็น Model-View-Controller (MCV) และยังเป็น Model-View-ViewModel (MVVM) อีกด้วย มีการเชื่อมการทำงานระหว่าง JavaScript เข้ากับ DOM Element ของ HTML ใช้การทำงาน client-side template สามารถสร้าง template ไปใส่ไว้ในที่ที่เรากำหนดไว้ได้ และเป็น 2-way data binding เพื่อ sync Model กับ View&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Xeo-ucVvWirNHpCaYBjT-1">
+        <mxCell id="Xeo-ucVvWirNHpCaYBjT-2" value="&lt;em style=&quot;box-sizing: border-box ; overflow-wrap: break-word ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;titillium web&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Angular&lt;/em&gt;&lt;span style=&quot;color: rgb(85 , 85 , 85) ; font-family: &amp;#34;titillium web&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&amp;nbsp;เป็น Front-end JavaScript Framework ที่ทำงานบนฝั่ง Client ที่เรานำไปสร้าง Reactive Single Page Applications (SPA) ซึ่งก็คือทุกๆหน้าจะถูกโหลดมารวมอยู่ในหน้าเดียว การคลิ๊กเปลี่ยนหน้าหรือการคลิ๊กปุ่มต่างๆ จะทำให้เรารู้สึกเหมือนเป็น Desktop Application ที่ไม่มีการโหลดเปลี่ยนหน้า Angular เป็น Model-View-Controller (MVC) และยังเป็น Model-View-ViewModel (MVVM) อีกด้วย มีการเชื่อมการทำงานระหว่าง JavaScript เข้ากับ DOM Element ของ HTML ใช้การทำงาน client-side template สามารถสร้าง template ไปใส่ไว้ในที่ที่เรากำหนดไว้ได้ และเป็น 2-way data binding เพื่อ sync Model กับ View&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="Xeo-ucVvWirNHpCaYBjT-1" vertex="1">
           <mxGeometry x="60" y="80" width="760" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Xeo-ucVvWirNHpCaYBjT-3" value="What is Angular" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="Xeo-ucVvWirNHpCaYBjT-1">
+        <mxCell id="Xeo-ucVvWirNHpCaYBjT-3" value="What is Angular" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="Xeo-ucVvWirNHpCaYBjT-1" vertex="1">
           <mxGeometry x="170" y="40" width="490" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="znfPTFzZSeJcUlV8sNw4" name="architecture">
-    <mxGraphModel dx="1398" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="s3EjKfeBprG2DYXlef7y-0" />
         <mxCell id="s3EjKfeBprG2DYXlef7y-1" parent="s3EjKfeBprG2DYXlef7y-0" />
-        <mxCell id="s3EjKfeBprG2DYXlef7y-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://angular.io/generated/images/guide/architecture/overview2.png;" vertex="1" parent="s3EjKfeBprG2DYXlef7y-1">
+        <mxCell id="s3EjKfeBprG2DYXlef7y-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://angular.io/generated/images/guide/architecture/overview2.png;" parent="s3EjKfeBprG2DYXlef7y-1" vertex="1">
           <mxGeometry x="150" y="110" width="886.36" height="450" as="geometry" />
         </mxCell>
         <UserObject label="https://stackblitz.com/edit/angular-ivy-hmjtuu" link="https://stackblitz.com/edit/angular-ivy-hmjtuu" id="kAwa3o2ntv0pXYS5F2Ye-0">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="s3EjKfeBprG2DYXlef7y-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="s3EjKfeBprG2DYXlef7y-1" vertex="1">
             <mxGeometry x="300" y="20" width="260" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="https://angular.io/guide/architecture" link="https://angular.io/guide/architecture" id="kAwa3o2ntv0pXYS5F2Ye-1">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="s3EjKfeBprG2DYXlef7y-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="s3EjKfeBprG2DYXlef7y-1" vertex="1">
             <mxGeometry x="20" y="20" width="210" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -46,7 +46,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BEiF3wPA1BgGT0evzaox" name="module">
-    <mxGraphModel dx="1349" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="SVKwN3JezJcUcCC6vcUd-0" />
         <mxCell id="SVKwN3JezJcUcCC6vcUd-1" parent="SVKwN3JezJcUcCC6vcUd-0" />
@@ -71,7 +71,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SY041crK3yLP-vuuTZCu" name="component">
-    <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="-oG_FB0FSv6JBAYIKwch-0" />
         <mxCell id="-oG_FB0FSv6JBAYIKwch-1" parent="-oG_FB0FSv6JBAYIKwch-0" />
@@ -131,7 +131,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nei2z6a1dOv-aYbANXEr" name="component(2)">
-    <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="jCv_f7iNkOVhFn-Z_VQX-0" />
         <mxCell id="jCv_f7iNkOVhFn-Z_VQX-1" parent="jCv_f7iNkOVhFn-Z_VQX-0" />
@@ -161,7 +161,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="20cvBshXawSVRR0MfZ80" name="rounting">
-    <mxGraphModel dx="3428" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1452" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="6Fx13dNc-fAe5085B1P9-0" />
         <mxCell id="6Fx13dNc-fAe5085B1P9-1" parent="6Fx13dNc-fAe5085B1P9-0" />
