@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T13:52:02.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="ZZVrzeJQhFLCQ0ctNDNa" version="14.9.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-25T13:57:13.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="5V5rDHTNvU4BOfSa0HGU" version="14.9.2" type="github" pages="2">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1362" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -138,6 +138,14 @@
         <mxCell id="5fmO3-xZQmXlV5Nx7xii-35" value="&lt;pre class=&quot;lang-none prettyprint&quot; style=&quot;position: relative ; display: flex ; min-height: 32px ; margin: 16px 24px ; align-items: center&quot;&gt;&lt;code class=&quot;animated fadeIn&quot; style=&quot;font-family: &amp;#34;roboto mono&amp;#34; , monospace ; font-size: 14.4px ; color: rgb(68 , 68 , 68) ; overflow: auto&quot;&gt;my-workspace/&lt;br&gt;  ...             (workspace-wide config files)&lt;br&gt;  projects/       (generated applications and libraries)&lt;br&gt;    my-first-app/ --(an explicitly generated application)&lt;br&gt;      ...         --(application-specific config)&lt;br&gt;      src/        --(source and support files for application)&lt;br&gt;    my-lib/       --(a generated library)&lt;br&gt;      ...         --(library-specific config)&lt;br&gt;      src/        --source and support files for library)&lt;/code&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
           <mxGeometry x="80" y="4400" width="550" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="5fmO3-xZQmXlV5Nx7xii-36" value="Library project files&#xa;" style="text;whiteSpace=wrap;fontSize=15;fontColor=#000000;fontStyle=1" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
+          <mxGeometry x="80" y="4660" width="170" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="https://angular.io/guide/file-structure#library-project-files" link="https://angular.io/guide/file-structure#library-project-files" id="5fmO3-xZQmXlV5Nx7xii-37">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#808080;" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
+            <mxGeometry x="260" y="4660" width="390" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
