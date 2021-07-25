@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T05:22:45.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="-O0b10P7uTP4oGsfpGaj" version="14.8.6" type="github">
-  <diagram id="qvzPr0TAayq8KXM2xH8w" name="Page-2">
-    <mxGraphModel dx="919" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-07-25T06:03:31.449Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="ah3KQWpJqT3udYri8bHK" version="14.9.2" type="github">
+  <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
+    <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="AaRv3cbDPbzKg6Ba6lAs-0" />
         <mxCell id="AaRv3cbDPbzKg6Ba6lAs-1" parent="AaRv3cbDPbzKg6Ba6lAs-0" />
+        <mxCell id="d9_ByG-xosFye7LMnPGV-0" value="&lt;em style=&quot;box-sizing: border-box ; overflow-wrap: break-word ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;titillium web&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Angular&lt;/em&gt;&lt;span style=&quot;color: rgb(85 , 85 , 85) ; font-family: &amp;#34;titillium web&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&amp;nbsp;เป็น Front-end JavaScript Framework ที่ทำงานบนฝั่ง Client ที่เรานำไปสร้าง Reactive Single Page Applications (SPA) ซึ่งก็คือทุกๆหน้าจะถูกโหลดมารวมอยู่ในหน้าเดียว การคลิ๊กเปลี่ยนหน้าหรือการคลิ๊กปุ่มต่างๆ จะทำให้เรารู้สึกเหมือนเป็น Desktop Application ที่ไม่มีการโหลดเปลี่ยนหน้า Angular เป็น Model-View-Controller (MVC) และยังเป็น Model-View-ViewModel (MVVM) อีกด้วย มีการเชื่อมการทำงานระหว่าง JavaScript เข้ากับ DOM Element ของ HTML ใช้การทำงาน client-side template สามารถสร้าง template ไปใส่ไว้ในที่ที่เรากำหนดไว้ได้ และเป็น 2-way data binding เพื่อ sync Model กับ View&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="AaRv3cbDPbzKg6Ba6lAs-1">
+          <mxGeometry x="180" y="90" width="760" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="d9_ByG-xosFye7LMnPGV-1" value="What is Angular" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="AaRv3cbDPbzKg6Ba6lAs-1">
+          <mxGeometry x="290" y="50" width="490" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
