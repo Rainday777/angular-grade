@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T09:33:14.340Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="uuqdXd8O4dr9RvOK_bZo" version="14.9.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-25T09:35:52.576Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="glOFp1Fh394w7wON1dn9" version="14.9.2" type="github" pages="2">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1362" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -116,6 +116,12 @@
         </mxCell>
         <mxCell id="5fmO3-xZQmXlV5Nx7xii-26" value="&lt;ul&gt;&lt;li&gt;เป็นการสร้าง project ใหม่อยู่ใน root level ของ workspace&lt;/li&gt;&lt;li&gt;Anguar สามารถสร้าง multiple project&amp;nbsp; หรือ มี shareable libraryใน workspace ได้ เราเรียกว่า monorepo&lt;br&gt;&amp;nbsp;&lt;a href=&quot;https://angular.io/guide/file-structure#multiple-projects&quot;&gt;https://angular.io/guide/file-structure#multiple-projects&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;horizontal=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
           <mxGeometry x="60" y="3430" width="830" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5fmO3-xZQmXlV5Nx7xii-27" value="Application project files&#xa;" style="text;whiteSpace=wrap;fontSize=15;fontColor=#000000;fontStyle=1" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
+          <mxGeometry x="70" y="3530" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5fmO3-xZQmXlV5Nx7xii-28" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 15px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;อ่านเพิ่มเติม&amp;nbsp;https://angular.io/guide/file-structure#application-project-files&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
+          <mxGeometry x="70" y="3560" width="500" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
