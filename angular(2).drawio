@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T06:23:44.389Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="hEQgB4C0uOtqKi4jozoa" version="14.9.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-25T06:23:54.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="QKDByTlriAGo2u8Wz53y" version="14.9.2" type="github" pages="2">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1113" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="9XhOKt12413cl3PxrwLf-0" />
         <mxCell id="9XhOKt12413cl3PxrwLf-1" parent="9XhOKt12413cl3PxrwLf-0" />
         <mxCell id="9XhOKt12413cl3PxrwLf-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://angular.io/generated/images/guide/architecture/overview2.png;" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
-          <mxGeometry x="141" y="90" width="886.36" height="450" as="geometry" />
+          <mxGeometry x="130" y="120" width="886.36" height="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
