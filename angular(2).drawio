@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T06:23:54.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="QKDByTlriAGo2u8Wz53y" version="14.9.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-25T06:25:01.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="k8YR4-BDdR88rMTkjczD" version="14.9.2" type="github" pages="2">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1113" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,12 +23,20 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JpRbB0-pZt5DcbXWfVNl" name="architecture">
-    <mxGraphModel dx="1398" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="9XhOKt12413cl3PxrwLf-0" />
         <mxCell id="9XhOKt12413cl3PxrwLf-1" parent="9XhOKt12413cl3PxrwLf-0" />
         <mxCell id="9XhOKt12413cl3PxrwLf-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://angular.io/generated/images/guide/architecture/overview2.png;" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
           <mxGeometry x="130" y="120" width="886.36" height="450" as="geometry" />
+        </mxCell>
+        <UserObject label="https://angular.io/guide/architecture" link="https://angular.io/guide/architecture" id="9XhOKt12413cl3PxrwLf-3">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
+            <mxGeometry x="130" y="30" width="210" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="9XhOKt12413cl3PxrwLf-4" value="Document" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
+          <mxGeometry x="20" y="35" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
