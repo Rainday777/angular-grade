@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T07:54:58.762Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="03WbXdt2agmz1RAPwdEX" version="14.9.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-25T08:54:45.266Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="nQKVIjpCAkB-0IgPwP8l" version="14.9.2" type="github" pages="2">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1362" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JpRbB0-pZt5DcbXWfVNl" name="concept">
-    <mxGraphModel dx="1645" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="9XhOKt12413cl3PxrwLf-0" />
         <mxCell id="9XhOKt12413cl3PxrwLf-1" parent="9XhOKt12413cl3PxrwLf-0" />
@@ -87,6 +87,12 @@
         </mxCell>
         <mxCell id="5fmO3-xZQmXlV5Nx7xii-13" value="1 property value binding เข้ากับ currentItem.name&lt;br&gt;2 (input) event คือมีการใส่หรือเปลี่ยนแปลงค่าใน &amp;lt;input&amp;gt;&lt;br&gt;3 เมื่อมีการเปลี่ยนแปลงค่าจะส่งไปให้ function getValueทำงานและส่งค่าไปให้&amp;nbsp; currentItem.name&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#808080;" vertex="1" parent="5fmO3-xZQmXlV5Nx7xii-16">
           <mxGeometry x="456.36" y="80" width="480" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5fmO3-xZQmXlV5Nx7xii-17" value="Template variables" style="text;whiteSpace=wrap;fontSize=15;fontColor=#000000;fontStyle=1" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
+          <mxGeometry x="70" y="2530" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5fmO3-xZQmXlV5Nx7xii-18" value="&lt;ul&gt;&lt;li&gt;ใช้เพื่ออ้างอิงตัว object ต่างๆบน template&lt;/li&gt;&lt;li&gt;ใช้สัญลักษณ์ # นำหน้าตัวแปร&lt;/li&gt;&lt;li&gt;ต.ย.&lt;br&gt;&amp;nbsp;&amp;lt;input&lt;span class=&quot;pln&quot; style=&quot;line-height: 2.4rem ; font-family: &amp;#34;roboto mono&amp;#34; , monospace ; font-size: 14.4px ; background-color: rgba(242 , 242 , 242 , 0.2)&quot;&gt; #&lt;/span&gt;&lt;span class=&quot;atn&quot; style=&quot;color: rgb(102 , 0 , 102) ; line-height: 2.4rem ; font-family: &amp;#34;roboto mono&amp;#34; , monospace ; font-size: 14.4px ; background-color: rgba(242 , 242 , 242 , 0.2)&quot;&gt;phone&lt;/span&gt;&lt;span class=&quot;pln&quot; style=&quot;line-height: 2.4rem ; font-family: &amp;#34;roboto mono&amp;#34; , monospace ; font-size: 14.4px ; background-color: rgba(242 , 242 , 242 , 0.2)&quot;&gt; &lt;/span&gt;&lt;span class=&quot;atn&quot; style=&quot;color: rgb(102 , 0 , 102) ; line-height: 2.4rem ; font-family: &amp;#34;roboto mono&amp;#34; , monospace ; font-size: 14.4px ; background-color: rgba(242 , 242 , 242 , 0.2)&quot;&gt;placeholder&lt;/span&gt;&lt;span class=&quot;pun&quot; style=&quot;color: rgb(102 , 102 , 0) ; line-height: 2.4rem ; font-family: &amp;#34;roboto mono&amp;#34; , monospace ; font-size: 14.4px ; background-color: rgba(242 , 242 , 242 , 0.2)&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;atv&quot; style=&quot;color: rgb(136 , 0 , 0) ; line-height: 2.4rem ; font-family: &amp;#34;roboto mono&amp;#34; , monospace ; font-size: 14.4px ; background-color: rgba(242 , 242 , 242 , 0.2)&quot;&gt;&quot;phone number&quot;&lt;/span&gt;&lt;span class=&quot;pln&quot; style=&quot;line-height: 2.4rem ; font-family: &amp;#34;roboto mono&amp;#34; , monospace ; font-size: 14.4px ; background-color: rgba(242 , 242 , 242 , 0.2)&quot;&gt; &lt;/span&gt;&lt;span class=&quot;tag&quot; style=&quot;color: rgb(0 , 0 , 136) ; line-height: 2.4rem ; font-family: &amp;#34;roboto mono&amp;#34; , monospace ; font-size: 14.4px ; background-color: rgba(242 , 242 , 242 , 0.2)&quot;&gt;/&amp;gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;horizontal=1;" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
+          <mxGeometry x="70" y="2560" width="1070" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
