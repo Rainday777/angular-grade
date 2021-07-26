@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T05:27:31.293Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="kpPoTcxc9Cw7h62ydeS5" version="14.9.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-26T05:31:00.347Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="uSqQbtRkzPIE0Cm0JMth" version="14.9.2" type="github" pages="5">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1362" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
         <mxCell id="vzZqXndocBZL6Yd4unEK-0" value="Services" style="text;whiteSpace=wrap;fontSize=15;fontColor=#000000;fontStyle=1" vertex="1" parent="3jVfhd2CxAiJLf48tWXa-1">
           <mxGeometry x="70" y="870" width="550" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vzZqXndocBZL6Yd4unEK-1" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;คือ class ประเภทนึงที่ทำงานแบบเฉพาะเจาะจง&lt;/span&gt;&lt;/li&gt;&lt;li&gt;instance ของ service ถูกสร้างโดย injector (angular engine) จัดการให้&lt;/li&gt;&lt;li&gt;การเรียกใช้งาน service โดยเรียกผ่านการ inject ใน constructor&lt;/li&gt;&lt;li&gt;scope ของ&amp;nbsp; service อยู่บน component , module , service ด้วยกัน&amp;nbsp;&lt;/li&gt;&lt;li&gt;serviceที่ทำงานอยู่บน root module จะมีเพียง 1 instance&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" vertex="1" parent="3jVfhd2CxAiJLf48tWXa-1">
+        <mxCell id="vzZqXndocBZL6Yd4unEK-1" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;คือ class ประเภทนึงที่ทำงานแบบเฉพาะเจาะจง&lt;/span&gt;&lt;/li&gt;&lt;li&gt;instance ของ service ถูกสร้างโดย injector (angular engine) จัดการให้&lt;/li&gt;&lt;li&gt;การเรียกใช้งาน service โดยเรียกผ่านการ inject ใน constructor&lt;/li&gt;&lt;li&gt;scope ของ&amp;nbsp; service อยู่บน component , module, pipe , service ด้วยกัน&amp;nbsp;&lt;/li&gt;&lt;li&gt;serviceที่ทำงานอยู่บน root module จะมีเพียง 1 instance&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" vertex="1" parent="3jVfhd2CxAiJLf48tWXa-1">
           <mxGeometry x="70" y="900" width="1050" height="170" as="geometry" />
         </mxCell>
         <UserObject label="https://angular.io/guide/architecture-services#introduction-to-services-and-dependency-injection" link="https://angular.io/guide/architecture-services#introduction-to-services-and-dependency-injection" id="vzZqXndocBZL6Yd4unEK-2">
@@ -254,6 +254,12 @@
             <mxGeometry x="280" y="865" width="710" height="50" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="vzZqXndocBZL6Yd4unEK-3" value="Dependencies injection" style="text;whiteSpace=wrap;fontSize=15;fontColor=#000000;fontStyle=1" vertex="1" parent="3jVfhd2CxAiJLf48tWXa-1">
+          <mxGeometry x="70" y="1100" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vzZqXndocBZL6Yd4unEK-4" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;คือ การเรียกใช้ service ผ่าน constructor&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;การประกาศให้ classs ใดๆเป็น service เราจะมีใช้ @injectable() บนหัว class&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" vertex="1" parent="3jVfhd2CxAiJLf48tWXa-1">
+          <mxGeometry x="70" y="1110" width="1050" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
