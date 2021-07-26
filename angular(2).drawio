@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T13:26:44.610Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="EwLMVFaTqovxwaH_R7gb" version="14.9.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-26T13:27:01.647Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="rfRwU95rWsWElyFk-0nc" version="14.9.2" type="github" pages="7">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1362" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -397,11 +397,11 @@
         </mxCell>
         <UserObject label="https://www.freecodecamp.org/news/the-best-angular-examples/" link="https://www.freecodecamp.org/news/the-best-angular-examples/" id="fsmjzqLoLJigW1nqsA_--5">
           <mxCell style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;" vertex="1" parent="0rSzRjZo2q5_lKyNWvl8-1">
-            <mxGeometry x="52.5" y="3692" width="450" height="30" as="geometry" />
+            <mxGeometry x="52.5" y="3670" width="450" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="fsmjzqLoLJigW1nqsA_--6" value="ตัวอย่างการสร้าง app จาก freecodecamp.org" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="0rSzRjZo2q5_lKyNWvl8-1">
-          <mxGeometry x="55" y="3672" width="320" height="20" as="geometry" />
+          <mxGeometry x="55" y="3650" width="320" height="20" as="geometry" />
         </mxCell>
         <UserObject label="https://stackblitz.com/angular/pdoqomvgjee?file=src%2Fapp%2Fapp.component.html" link="https://stackblitz.com/angular/pdoqomvgjee?file=src%2Fapp%2Fapp.component.html" id="FjexqUtTJvtszSBEGqTU-0">
           <mxCell style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#333333;" vertex="1" parent="0rSzRjZo2q5_lKyNWvl8-1">
