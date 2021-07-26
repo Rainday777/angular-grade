@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T08:08:13.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="3wU_HL1WI4zLS6EE4ECF" version="14.9.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-07-26T08:26:51.206Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="QGy-046hXPMcd1wBS2T3" version="14.9.2" type="github" pages="6">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1362" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -391,6 +391,14 @@
         </UserObject>
         <mxCell id="-tMDfqfgiyqi36ZXT0df-14" value="ตัวอย่างการสร้าง app จาก angular official&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="bM7LJWwTL4gmgeZj5Dxk-1">
           <mxGeometry x="52.5" y="3550" width="320" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="https://www.freecodecamp.org/news/the-best-angular-examples/" link="https://www.freecodecamp.org/news/the-best-angular-examples/" id="-tMDfqfgiyqi36ZXT0df-15">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;" vertex="1" parent="bM7LJWwTL4gmgeZj5Dxk-1">
+            <mxGeometry x="52.5" y="3692" width="450" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-tMDfqfgiyqi36ZXT0df-16" value="ตัวอย่างการสร้าง app จาก freecodecamp.org" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="bM7LJWwTL4gmgeZj5Dxk-1">
+          <mxGeometry x="55" y="3672" width="320" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
