@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T06:41:13.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="J4PQPRp_PbCSkJn_2dtT" version="14.9.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-07-26T06:45:56.001Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="CTfDY4phfpC2VEuVueBZ" version="14.9.2" type="github" pages="6">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1362" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -368,6 +368,14 @@
             <mxGeometry x="267.5" y="2915" width="440" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="https://stackblitz.com/angular/pdoqomvgjee?file=src%2Fapp%2Fapp.component.html" link="https://stackblitz.com/angular/pdoqomvgjee?file=src%2Fapp%2Fapp.component.html" id="-tMDfqfgiyqi36ZXT0df-9">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#333333;" vertex="1" parent="bM7LJWwTL4gmgeZj5Dxk-1">
+            <mxGeometry x="52.5" y="3380" width="790" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-tMDfqfgiyqi36ZXT0df-10" value="Angular live example" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="bM7LJWwTL4gmgeZj5Dxk-1">
+          <mxGeometry x="52.5" y="3350" width="320" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
