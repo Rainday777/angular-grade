@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T13:59:25.674Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="jcBXF7sVXdUXAQHPJA6m" version="14.9.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-26T14:01:00.920Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="MyhDNFavzoyyR117U4Q_" version="14.9.2" type="github" pages="7">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1362" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -410,7 +410,12 @@
         </UserObject>
         <UserObject label="https://www.freecodecamp.org/news/angular-8-tutorial-in-easy-steps/" link="https://www.freecodecamp.org/news/angular-8-tutorial-in-easy-steps/" id="dtdiB4wXSA_eS6EisDfl-0">
           <mxCell style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;" vertex="1" parent="0rSzRjZo2q5_lKyNWvl8-1">
-            <mxGeometry x="55" y="3722" width="480" height="30" as="geometry" />
+            <mxGeometry x="55" y="3700" width="480" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="https://www.freecodecamp.org/news/tag/angular/" link="https://www.freecodecamp.org/news/tag/angular/" id="dtdiB4wXSA_eS6EisDfl-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;" vertex="1" parent="0rSzRjZo2q5_lKyNWvl8-1">
+            <mxGeometry x="55" y="3730" width="350" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
