@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T06:12:42.206Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="AP7ET28NdyDu0LI4UMpc" version="14.9.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-07-26T06:13:07.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="2ile9Bd8o3GuiIDzR80_" version="14.9.2" type="github" pages="6">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1362" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -313,6 +313,11 @@
         <mxCell id="bM7LJWwTL4gmgeZj5Dxk-9" value="ต.ย. การกำหนดเส้นทางบน router module" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="bM7LJWwTL4gmgeZj5Dxk-1">
           <mxGeometry x="70" y="309" width="360" height="20" as="geometry" />
         </mxCell>
+        <UserObject label="https://angular.io/guide/router#common-routing-tasks" link="https://angular.io/guide/router#common-routing-tasks" id="bM7LJWwTL4gmgeZj5Dxk-10">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#808080;" vertex="1" parent="bM7LJWwTL4gmgeZj5Dxk-1">
+            <mxGeometry x="385" y="35" width="400" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
