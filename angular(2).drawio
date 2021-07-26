@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T05:50:28.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="-PYXQjAaWrwVnMr1mhKk" version="14.9.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-26T06:05:20.500Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="K60lrlFf-fzGaLSxTj38" version="14.9.2" type="github" pages="6">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1362" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -283,6 +283,23 @@
         </mxCell>
         <mxCell id="FMF6Z7tFKlT9PuyJ_qNj-0" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;img src=&quot;https://angular.io/generated/images/guide/providers/any-provider.svg&quot; alt=&quot;any-provider-scope&quot; class=&quot;left&quot; width=&quot;607&quot; height=&quot;389&quot; style=&quot;clear: both; float: left; margin-right: 20px; margin-bottom: 20px; color: rgba(0, 0, 0, 0.87); font-family: roboto, &amp;quot;helvetica neue light&amp;quot;, &amp;quot;helvetica neue&amp;quot;, helvetica, arial, &amp;quot;lucida grande&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#808080;" vertex="1" parent="3jVfhd2CxAiJLf48tWXa-1">
           <mxGeometry x="210" y="1710" width="680" height="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xl-b3w93Ecr6U5go-6LZ" name="Routing">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="bM7LJWwTL4gmgeZj5Dxk-0" />
+        <mxCell id="bM7LJWwTL4gmgeZj5Dxk-1" parent="bM7LJWwTL4gmgeZj5Dxk-0" />
+        <mxCell id="bM7LJWwTL4gmgeZj5Dxk-2" value="Rounting" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="bM7LJWwTL4gmgeZj5Dxk-1">
+          <mxGeometry x="70" y="40" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bM7LJWwTL4gmgeZj5Dxk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontColor=#000000;" edge="1" parent="bM7LJWwTL4gmgeZj5Dxk-1" source="bM7LJWwTL4gmgeZj5Dxk-2" target="bM7LJWwTL4gmgeZj5Dxk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bM7LJWwTL4gmgeZj5Dxk-4" value="เป็นการกำหนดเส้นทางไปยัง component ต่างๆเป็น applcation" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" vertex="1" parent="bM7LJWwTL4gmgeZj5Dxk-1">
+          <mxGeometry x="70" y="70" width="330" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
