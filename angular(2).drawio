@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T06:09:57.673Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="fqB9o0_s7MjecjJs1POf" version="14.9.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-07-26T06:11:09.686Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="mfk4kXnxeaSJ3xThxx_-" version="14.9.2" type="github" pages="6">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1362" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -304,8 +304,8 @@
         <mxCell id="bM7LJWwTL4gmgeZj5Dxk-6" value="ขั้นตอนการสร้าง Router" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="bM7LJWwTL4gmgeZj5Dxk-1">
           <mxGeometry x="70" y="160" width="360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bM7LJWwTL4gmgeZj5Dxk-7" value="&lt;ul&gt;&lt;li&gt;สร้าง Router module&lt;/li&gt;&lt;li&gt;register component และ path ไปยัง router module&lt;/li&gt;&lt;li&gt;import router module ไปยัง root module หรือ feature module ที่ต้องการ&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" vertex="1" parent="bM7LJWwTL4gmgeZj5Dxk-1">
-          <mxGeometry x="70" y="190" width="650" height="50" as="geometry" />
+        <mxCell id="bM7LJWwTL4gmgeZj5Dxk-7" value="&lt;ul&gt;&lt;li&gt;สร้าง Router module&lt;/li&gt;&lt;li&gt;register component และ path ไปยัง router module&lt;/li&gt;&lt;li&gt;import router module ไปยัง root module หรือ feature module ที่ต้องการ&lt;/li&gt;&lt;li&gt;root/fearture module export router module ออกไป&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" vertex="1" parent="bM7LJWwTL4gmgeZj5Dxk-1">
+          <mxGeometry x="60" y="180" width="650" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
