@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T05:44:14.631Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="iS4Pb6dc6yapPf4U1vw-" version="14.9.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-26T05:48:31.009Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="O_F2jMh-qq2hjPr4J-pn" version="14.9.2" type="github" pages="5">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1362" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -280,6 +280,9 @@
         </mxCell>
         <mxCell id="vzZqXndocBZL6Yd4unEK-14" value="&lt;font color=&quot;#000000&quot;&gt;ประกาศบน บน component&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#808080;" vertex="1" parent="3jVfhd2CxAiJLf48tWXa-1">
           <mxGeometry x="920" y="1460" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FMF6Z7tFKlT9PuyJ_qNj-0" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;img src=&quot;https://angular.io/generated/images/guide/providers/any-provider.svg&quot; alt=&quot;any-provider-scope&quot; class=&quot;left&quot; width=&quot;607&quot; height=&quot;389&quot; style=&quot;clear: both; float: left; margin-right: 20px; margin-bottom: 20px; color: rgba(0, 0, 0, 0.87); font-family: roboto, &amp;quot;helvetica neue light&amp;quot;, &amp;quot;helvetica neue&amp;quot;, helvetica, arial, &amp;quot;lucida grande&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#808080;" vertex="1" parent="3jVfhd2CxAiJLf48tWXa-1">
+          <mxGeometry x="210" y="1710" width="680" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
