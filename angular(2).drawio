@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T17:34:29.390Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="IGvcFER1bvy8y01rIN7L" version="14.9.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-26T19:21:11.045Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="792HX0uTUhgHcUi_yLZE" version="14.9.2" type="github" pages="7">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1362" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JpRbB0-pZt5DcbXWfVNl" name="concept">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1169" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="9XhOKt12413cl3PxrwLf-0" />
         <mxCell id="9XhOKt12413cl3PxrwLf-1" parent="9XhOKt12413cl3PxrwLf-0" />
@@ -146,11 +146,19 @@
             <mxGeometry x="293.18" y="4660" width="490" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="https://kgotgit.medium.com/monorepo-pattern-setting-up-angular-workspace-for-multiple-applications-in-one-single-repository-4e14bc0d0cc0" link="https://kgotgit.medium.com/monorepo-pattern-setting-up-angular-workspace-for-multiple-applications-in-one-single-repository-4e14bc0d0cc0" id="qwIzWqSqdx1jexOeKet4-0">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
+            <mxGeometry x="70" y="3630" width="910" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qwIzWqSqdx1jexOeKet4-1" value="Monorepo" style="text;whiteSpace=wrap;fontSize=15;fontColor=#000000;fontStyle=1" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
+          <mxGeometry x="70" y="3610" width="550" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="yP2jCfdUa03D0wQ9DL4n" name="ngModule">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1398" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="3SRUxcfi7kbMrJhQF7OM-0" />
         <mxCell id="3SRUxcfi7kbMrJhQF7OM-1" parent="3SRUxcfi7kbMrJhQF7OM-0" />
