@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T05:51:17.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="-wiBHmo4Lx6Kve3-csBR" version="14.9.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-28T05:52:03.131Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="7JHOq0qCZYuaMnrgIrTj" version="14.9.2" type="github" pages="7">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1202" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -467,6 +467,14 @@
         <UserObject label="https://jsonworld.com/demo/communication-between-components-using-output-decorator" link="https://jsonworld.com/demo/communication-between-components-using-output-decorator" id="ADy03kYsHRE474FBqIl5-3">
           <mxCell style="text;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="0rSzRjZo2q5_lKyNWvl8-1">
             <mxGeometry x="55" y="4135" width="715" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ADy03kYsHRE474FBqIl5-4" value="Communication Between Components Using Input decorator in Angular" style="text;fontSize=15;fontStyle=1" vertex="1" parent="0rSzRjZo2q5_lKyNWvl8-1">
+          <mxGeometry x="55" y="4185" width="640" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="https://jsonworld.com/demo/communication-between-components-using-input-decorator" link="https://jsonworld.com/demo/communication-between-components-using-input-decorator" id="ADy03kYsHRE474FBqIl5-5">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="0rSzRjZo2q5_lKyNWvl8-1">
+            <mxGeometry x="60" y="4230" width="710" height="50" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
