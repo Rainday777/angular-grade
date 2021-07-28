@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T18:01:36.682Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="U2CsdiBLHfFIO1u3EFcW" version="14.9.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-28T05:46:39.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="sXZ-Ez36HKWtYrzRs8m_" version="14.9.2" type="github" pages="7">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
-    <mxGraphModel dx="1185" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1202" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="AaRv3cbDPbzKg6Ba6lAs-0" />
         <mxCell id="AaRv3cbDPbzKg6Ba6lAs-1" parent="AaRv3cbDPbzKg6Ba6lAs-0" />
@@ -23,7 +23,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JpRbB0-pZt5DcbXWfVNl" name="concept">
-    <mxGraphModel dx="1185" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1202" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="9XhOKt12413cl3PxrwLf-0" />
         <mxCell id="9XhOKt12413cl3PxrwLf-1" parent="9XhOKt12413cl3PxrwLf-0" />
@@ -154,13 +154,13 @@
         <mxCell id="qwIzWqSqdx1jexOeKet4-1" value="Monorepo" style="text;whiteSpace=wrap;fontSize=15;fontColor=#000000;fontStyle=1" parent="9XhOKt12413cl3PxrwLf-1" vertex="1">
           <mxGeometry x="70" y="3610" width="550" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qvsncZDZBqmH87u9Xf7A-0" value="การ  start project ภายใน monorepo" style="text;whiteSpace=wrap;fontSize=15;fontColor=#000000;fontStyle=1" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
+        <mxCell id="qvsncZDZBqmH87u9Xf7A-0" value="การ  start project ภายใน monorepo" style="text;whiteSpace=wrap;fontSize=15;fontColor=#000000;fontStyle=1" parent="9XhOKt12413cl3PxrwLf-1" vertex="1">
           <mxGeometry x="80" y="4730" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qvsncZDZBqmH87u9Xf7A-1" value="ng serve --project=&lt;my-project&gt; --port=42xx" style="text;whiteSpace=wrap;fontSize=15;fontColor=#000000;fontStyle=0" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
+        <mxCell id="qvsncZDZBqmH87u9Xf7A-1" value="ng serve --project=&lt;my-project&gt; --port=42xx" style="text;whiteSpace=wrap;fontSize=15;fontColor=#000000;fontStyle=0" parent="9XhOKt12413cl3PxrwLf-1" vertex="1">
           <mxGeometry x="80" y="4770" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EuWWIaBDpnt8Ck06DpDn-0" value="How to create project in monorepo&#xa;ref: https://angular.io/guide/file-structure#multiple-projects&#xa;&#xa;&#xa;## create workspace&#xa;ng new my-workspace --create-application false&#xa;&#xa;&#xa;## create application in workspace&#xa;cd my-workspace&#xa;ng generate application my-first-app" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="9XhOKt12413cl3PxrwLf-1">
+        <mxCell id="EuWWIaBDpnt8Ck06DpDn-0" value="How to create project in monorepo&#xa;ref: https://angular.io/guide/file-structure#multiple-projects&#xa;&#xa;&#xa;## create workspace&#xa;ng new my-workspace --create-application false&#xa;&#xa;&#xa;## create application in workspace&#xa;cd my-workspace&#xa;ng generate application my-first-app" style="text;whiteSpace=wrap;html=1;" parent="9XhOKt12413cl3PxrwLf-1" vertex="1">
           <mxGeometry x="80" y="4820" width="580" height="170" as="geometry" />
         </mxCell>
       </root>
@@ -389,7 +389,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pFhbvJE03iRG43NHYZem" name="example">
-    <mxGraphModel dx="1422" dy="-2807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="962" dy="-2787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0rSzRjZo2q5_lKyNWvl8-0" />
         <mxCell id="0rSzRjZo2q5_lKyNWvl8-1" parent="0rSzRjZo2q5_lKyNWvl8-0" />
@@ -451,6 +451,14 @@
         <mxCell id="dtdiB4wXSA_eS6EisDfl-5" value="10 ตัวอย่างการสร้าง app แบบง่ายๆ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="0rSzRjZo2q5_lKyNWvl8-1" vertex="1">
           <mxGeometry x="60" y="3890" width="320" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ADy03kYsHRE474FBqIl5-0" value="Share data between angular components using service" style="text;fontStyle=1;fontSize=15;" vertex="1" parent="0rSzRjZo2q5_lKyNWvl8-1">
+          <mxGeometry x="60" y="3990" width="550" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="https://jsonworld.com/demo/share-data-between-angular-components-using-services" link="https://jsonworld.com/demo/share-data-between-angular-components-using-services" id="ADy03kYsHRE474FBqIl5-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="0rSzRjZo2q5_lKyNWvl8-1">
+            <mxGeometry x="60" y="4030" width="750" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
