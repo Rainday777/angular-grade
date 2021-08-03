@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T04:53:08.112Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="4PKIpBVdzNx1Sba23cXn" version="14.9.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-08-03T04:53:31.481Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="5hx7LKJgSgYNs9OOs2fL" version="14.9.3" type="github" pages="8">
   <diagram id="qvzPr0TAayq8KXM2xH8w" name="what is Angular">
     <mxGraphModel dx="1139" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -195,10 +195,10 @@
           <mxGeometry x="30" y="1320" width="1070" height="450" as="geometry" />
         </mxCell>
         <mxCell id="7nQr1EzIVXrYKwc0uYMB-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/1400/1*7qNv0TaIN_zq6OX3hXVpAw.png;" vertex="1" parent="3SRUxcfi7kbMrJhQF7OM-1">
-          <mxGeometry x="70" y="1840" width="520" height="330" as="geometry" />
+          <mxGeometry x="70" y="1860" width="520" height="330" as="geometry" />
         </mxCell>
         <mxCell id="7nQr1EzIVXrYKwc0uYMB-2" value="Shared VS Core Module" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="3SRUxcfi7kbMrJhQF7OM-1">
-          <mxGeometry x="80" y="1770" width="510" height="50" as="geometry" />
+          <mxGeometry x="80" y="1780" width="510" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
