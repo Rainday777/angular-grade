@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T10:45:13.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="CKryxH4R52GWL98AF-Du" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T10:49:27.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Ze2q1qKvvp8jEg1y_oHz" version="15.9.4" type="github">
   <diagram id="9yYx3cWBsJKRU6WUZeX_" name="Page-1">
-    <mxGraphModel dx="935" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="935" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,15 @@
         </mxCell>
         <mxCell id="gR8wkc3PYmkCXsu1GuSv-9" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(26 , 24 , 22) ; font-size: 16px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(252 , 251 , 250) ; display: inline ; float: none&quot;&gt;SQL Processing&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(26 , 24 , 22) ; font-size: 16px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(252 , 251 , 250) ; display: inline ; float: none&quot;&gt;Query Optimizer Concepts&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(26 , 24 , 22) ; font-size: 16px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(252 , 251 , 250) ; display: inline ; float: none&quot;&gt;Query Transformations&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="80" y="1010" width="1000" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gR8wkc3PYmkCXsu1GuSv-10" value="&lt;h2 id=&quot;TGSQL-GUID-EF45F82A-F17D-4C79-9B6A-8CBBB95F0684&quot; class=&quot;sect2&quot; style=&quot;box-sizing: border-box ; line-height: 1.21 ; color: rgb(26 , 24 , 22) ; margin-top: 10px ; margin-bottom: 10px ; font-size: 24px ; font-style: normal ; font-stretch: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(252 , 251 , 250)&quot;&gt;SQL Processing&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="1690" width="620" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gR8wkc3PYmkCXsu1GuSv-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://docs.oracle.com/en/database/oracle/oracle-database/19/tgsql/img/cncpt250.gif;" vertex="1" parent="1">
+          <mxGeometry x="69.71000000000001" y="1783" width="345.29" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="gR8wkc3PYmkCXsu1GuSv-12" value="SQL Parsing" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1783" width="490" height="227" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
