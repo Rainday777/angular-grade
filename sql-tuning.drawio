@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T10:49:27.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Ze2q1qKvvp8jEg1y_oHz" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T10:57:13.408Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="TdikWcQRm61oEtPmTBCP" version="15.9.4" type="github">
   <diagram id="9yYx3cWBsJKRU6WUZeX_" name="Page-1">
     <mxGraphModel dx="935" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -34,9 +34,29 @@
         <mxCell id="gR8wkc3PYmkCXsu1GuSv-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://docs.oracle.com/en/database/oracle/oracle-database/19/tgsql/img/cncpt250.gif;" vertex="1" parent="1">
           <mxGeometry x="69.71000000000001" y="1783" width="345.29" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="gR8wkc3PYmkCXsu1GuSv-12" value="SQL Parsing" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1783" width="490" height="227" as="geometry" />
+        <mxCell id="gR8wkc3PYmkCXsu1GuSv-12" value="Syntax Check" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1840" width="490" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="gR8wkc3PYmkCXsu1GuSv-13" value="SQL&amp;gt; SELECT * FORM employees;&#xa;SELECT * FORM employees&#xa;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;*&#xa;ERROR at line 1:&#xa;ORA-00923: FROM keyword not found where expected" style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1878" width="550" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="gR8wkc3PYmkCXsu1GuSv-14" value="Semantic Check" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2010" width="490" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gR8wkc3PYmkCXsu1GuSv-15" value="SQL&gt; SELECT * FROM nonexistent_table;&#xa;SELECT * FROM nonexistent_table&#xa;              *&#xa;ERROR at line 1:&#xa;ORA-00942: table or view does not exist" style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2060" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gR8wkc3PYmkCXsu1GuSv-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://docs.oracle.com/en/database/oracle/oracle-database/19/tgsql/img/cncpt251.gif;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2572" width="520" height="323" as="geometry" />
+        </mxCell>
+        <mxCell id="gR8wkc3PYmkCXsu1GuSv-17" value="Shared pool Check" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="2510" width="490" height="37" as="geometry" />
+        </mxCell>
+        <UserObject label="https://docs.oracle.com/en/database/oracle/oracle-database/19/tgsql/sql-processing.html#GUID-BFF0B26C-0A5D-4F79-B01E-8E1C4064A6AD" link="https://docs.oracle.com/en/database/oracle/oracle-database/19/tgsql/sql-processing.html#GUID-BFF0B26C-0A5D-4F79-B01E-8E1C4064A6AD" id="gR8wkc3PYmkCXsu1GuSv-18">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+            <mxGeometry x="410" y="2510" width="880" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
