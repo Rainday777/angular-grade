@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T05:09:36.551Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="NMflQqO3WxEuFNmQNKVr" version="15.9.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-13T05:18:37.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Xg06j3fkUHawCdc4yeSq" version="15.9.4" type="github" pages="3">
   <diagram id="xxkMFbhS_ljfOC89CWoo" name="overall">
     <mxGraphModel dx="1677" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9yYx3cWBsJKRU6WUZeX_" name="Query Optimizer Fundamental">
-    <mxGraphModel dx="2050" dy="6" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1148" dy="-361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,6 +129,15 @@
         </mxCell>
         <mxCell id="KSC5lkJVUCPoRrNBJEuc-2" value="&lt;h6&gt;&lt;span style=&quot;font-weight: normal ; line-height: 1 ; font-size: 23px&quot;&gt;Optimizer Components&lt;/span&gt;&lt;/h6&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=0;strokeColor=none;fillColor=none;fontSize=36;fontColor=#404040;imageAspect=1;allowArrows=1;connectable=1;recursiveResize=0;expand=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="5000" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KSC5lkJVUCPoRrNBJEuc-3" value="&lt;h2&gt;&lt;span style=&quot;background-color: rgb(252 , 251 , 250) ; color: rgb(26 , 24 , 22)&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Query Optimizer Concepts&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontColor=#404040;" vertex="1" parent="1">
+          <mxGeometry x="390" y="4962" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KSC5lkJVUCPoRrNBJEuc-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://docs.oracle.com/en/database/oracle/oracle-database/19/tgsql/img/tgsql_vm_042.png;" vertex="1" parent="1">
+          <mxGeometry x="160" y="5880" width="243" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="KSC5lkJVUCPoRrNBJEuc-5" value="&lt;h4&gt;&lt;ul&gt;&lt;li&gt;Query Transformer&lt;/li&gt;&lt;li&gt;Estimator&lt;/li&gt;&lt;li&gt;Plan Generator&lt;/li&gt;&lt;/ul&gt;&lt;/h4&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#404040;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5160" width="240" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
