@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T03:29:46.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="rswvRR509Nu_4Y0FLnAs" version="15.9.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-13T03:34:46.357Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="A-RxZ1S6bN01v819fWZD" version="15.9.4" type="github" pages="3">
   <diagram id="xxkMFbhS_ljfOC89CWoo" name="overall">
-    <mxGraphModel dx="2077" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2077" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="MH13Q9KeE9vLuWCFCkrq-0" />
         <mxCell id="MH13Q9KeE9vLuWCFCkrq-1" parent="MH13Q9KeE9vLuWCFCkrq-0" />
@@ -26,7 +26,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9yYx3cWBsJKRU6WUZeX_" name="Query Optimizer Fundamental">
-    <mxGraphModel dx="1780" dy="-164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1780" dy="66" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,6 +108,36 @@
         </mxCell>
         <mxCell id="f7KR5rhGR48Rg2OflenR-3" value="Oracle Database Architecture Overview" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="f7KR5rhGR48Rg2OflenR-1">
           <mxGeometry x="60" y="40" width="1000" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FofSB_iw9ayBThvsCzOD-0" value="&lt;h2 id=&quot;TGSQL-GUID-EF45F82A-F17D-4C79-9B6A-8CBBB95F0684&quot; class=&quot;sect2&quot; style=&quot;box-sizing: border-box ; font-weight: normal ; line-height: 1.21 ; color: rgb(26 , 24 , 22) ; margin-top: 10px ; margin-bottom: 10px ; font-size: 20px ; font-style: normal ; font-stretch: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(252 , 251 , 250)&quot;&gt;Database Data Blocks in Detail&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=20;" vertex="1" parent="f7KR5rhGR48Rg2OflenR-1">
+          <mxGeometry x="70" y="940" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FofSB_iw9ayBThvsCzOD-1" value="&lt;h2 id=&quot;TGSQL-GUID-EF45F82A-F17D-4C79-9B6A-8CBBB95F0684&quot; class=&quot;sect2&quot; style=&quot;box-sizing: border-box ; font-weight: normal ; line-height: 1.21 ; color: rgb(26 , 24 , 22) ; margin-top: 10px ; margin-bottom: 10px ; font-size: 20px ; font-style: normal ; font-stretch: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(252 , 251 , 250)&quot;&gt;What is PGA&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=20;" vertex="1" parent="f7KR5rhGR48Rg2OflenR-1">
+          <mxGeometry x="70" y="980" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FofSB_iw9ayBThvsCzOD-2" value="&lt;h2 id=&quot;TGSQL-GUID-EF45F82A-F17D-4C79-9B6A-8CBBB95F0684&quot; class=&quot;sect2&quot; style=&quot;box-sizing: border-box ; font-weight: normal ; line-height: 1.21 ; color: rgb(26 , 24 , 22) ; margin-top: 10px ; margin-bottom: 10px ; font-size: 20px ; font-style: normal ; font-stretch: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(252 , 251 , 250)&quot;&gt;What is Shared Pool&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=20;" vertex="1" parent="f7KR5rhGR48Rg2OflenR-1">
+          <mxGeometry x="70" y="1020" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FofSB_iw9ayBThvsCzOD-3" value="&lt;h2 id=&quot;TGSQL-GUID-EF45F82A-F17D-4C79-9B6A-8CBBB95F0684&quot; class=&quot;sect2&quot; style=&quot;box-sizing: border-box ; font-weight: normal ; line-height: 1.21 ; color: rgb(26 , 24 , 22) ; margin-top: 10px ; margin-bottom: 10px ; font-size: 20px ; font-style: normal ; font-stretch: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(252 , 251 , 250)&quot;&gt;What is Buffer Cache&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=20;" vertex="1" parent="f7KR5rhGR48Rg2OflenR-1">
+          <mxGeometry x="70" y="1060" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FofSB_iw9ayBThvsCzOD-4" value="&lt;h2 id=&quot;TGSQL-GUID-EF45F82A-F17D-4C79-9B6A-8CBBB95F0684&quot; class=&quot;sect2&quot; style=&quot;box-sizing: border-box ; font-weight: normal ; line-height: 1.21 ; color: rgb(26 , 24 , 22) ; margin-top: 10px ; margin-bottom: 10px ; font-size: 20px ; font-style: normal ; font-stretch: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(252 , 251 , 250)&quot;&gt;What is Redo Log Buffer&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=20;" vertex="1" parent="f7KR5rhGR48Rg2OflenR-1">
+          <mxGeometry x="70" y="1100" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FofSB_iw9ayBThvsCzOD-5" value="&lt;h2 id=&quot;TGSQL-GUID-EF45F82A-F17D-4C79-9B6A-8CBBB95F0684&quot; class=&quot;sect2&quot; style=&quot;box-sizing: border-box ; font-weight: normal ; line-height: 1.21 ; color: rgb(26 , 24 , 22) ; margin-top: 10px ; margin-bottom: 10px ; font-size: 20px ; font-style: normal ; font-stretch: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(252 , 251 , 250)&quot;&gt;What is Undo&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=20;" vertex="1" parent="f7KR5rhGR48Rg2OflenR-1">
+          <mxGeometry x="70" y="1140" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FofSB_iw9ayBThvsCzOD-6" value="&lt;h2 id=&quot;TGSQL-GUID-EF45F82A-F17D-4C79-9B6A-8CBBB95F0684&quot; class=&quot;sect2&quot; style=&quot;box-sizing: border-box ; font-weight: normal ; line-height: 1.21 ; color: rgb(26 , 24 , 22) ; margin-top: 10px ; margin-bottom: 10px ; font-size: 20px ; font-style: normal ; font-stretch: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(252 , 251 , 250)&quot;&gt;How a DML is processed and commited&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=20;" vertex="1" parent="f7KR5rhGR48Rg2OflenR-1">
+          <mxGeometry x="70" y="1180" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FofSB_iw9ayBThvsCzOD-7" value="&lt;h2 id=&quot;TGSQL-GUID-EF45F82A-F17D-4C79-9B6A-8CBBB95F0684&quot; class=&quot;sect2&quot; style=&quot;box-sizing: border-box ; font-weight: normal ; line-height: 1.21 ; color: rgb(26 , 24 , 22) ; margin-top: 10px ; margin-bottom: 10px ; font-size: 20px ; font-style: normal ; font-stretch: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(252 , 251 , 250)&quot;&gt;Automatic Memory Management&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=20;" vertex="1" parent="f7KR5rhGR48Rg2OflenR-1">
+          <mxGeometry x="70" y="1220" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FofSB_iw9ayBThvsCzOD-8" value="&lt;h2 id=&quot;TGSQL-GUID-EF45F82A-F17D-4C79-9B6A-8CBBB95F0684&quot; class=&quot;sect2&quot; style=&quot;box-sizing: border-box ; font-weight: normal ; line-height: 1.21 ; color: rgb(26 , 24 , 22) ; margin-top: 10px ; margin-bottom: 10px ; font-size: 20px ; font-style: normal ; font-stretch: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(252 , 251 , 250)&quot;&gt;Oracle Database Storage Architecture&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=20;" vertex="1" parent="f7KR5rhGR48Rg2OflenR-1">
+          <mxGeometry x="70" y="1260" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FofSB_iw9ayBThvsCzOD-9" value="&lt;h2 id=&quot;TGSQL-GUID-EF45F82A-F17D-4C79-9B6A-8CBBB95F0684&quot; class=&quot;sect2&quot; style=&quot;box-sizing: border-box ; font-weight: normal ; line-height: 1.21 ; color: rgb(26 , 24 , 22) ; margin-top: 10px ; margin-bottom: 10px ; font-size: 20px ; font-style: normal ; font-stretch: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(252 , 251 , 250)&quot;&gt;Logical and Physical Database Structure&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=20;" vertex="1" parent="f7KR5rhGR48Rg2OflenR-1">
+          <mxGeometry x="70" y="1300" width="480" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
