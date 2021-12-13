@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T05:18:37.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Xg06j3fkUHawCdc4yeSq" version="15.9.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-13T05:19:45.211Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Mrq1IJeCFvpZ_WXOAP2o" version="15.9.4" type="github" pages="3">
   <diagram id="xxkMFbhS_ljfOC89CWoo" name="overall">
     <mxGraphModel dx="1677" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -134,10 +134,16 @@
           <mxGeometry x="390" y="4962" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KSC5lkJVUCPoRrNBJEuc-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://docs.oracle.com/en/database/oracle/oracle-database/19/tgsql/img/tgsql_vm_042.png;" vertex="1" parent="1">
-          <mxGeometry x="160" y="5880" width="243" height="347" as="geometry" />
+          <mxGeometry x="97" y="5890" width="243" height="347" as="geometry" />
         </mxCell>
         <mxCell id="KSC5lkJVUCPoRrNBJEuc-5" value="&lt;h4&gt;&lt;ul&gt;&lt;li&gt;Query Transformer&lt;/li&gt;&lt;li&gt;Estimator&lt;/li&gt;&lt;li&gt;Plan Generator&lt;/li&gt;&lt;/ul&gt;&lt;/h4&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#404040;" vertex="1" parent="1">
           <mxGeometry x="630" y="5160" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KSC5lkJVUCPoRrNBJEuc-6" value="Query Transformer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#404040;" vertex="1" parent="1">
+          <mxGeometry x="97" y="5820" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSC5lkJVUCPoRrNBJEuc-7" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 14px 0px; font-weight: 400; font-style: normal; font-stretch: normal; line-height: 1.44; letter-spacing: normal; text-align: left; color: rgb(26, 24, 22); font-size: 16px; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(252, 251, 250);&quot;&gt;For some statements, the query transformer determines whether it is advantageous to rewrite the original SQL statement into a semantically equivalent SQL statement with a lower cost.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 14px 0px; font-weight: 400; font-style: normal; font-stretch: normal; line-height: 1.44; letter-spacing: normal; text-align: left; color: rgb(26, 24, 22); font-size: 16px; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(252, 251, 250);&quot;&gt;When a viable alternative exists, the database calculates the cost of the alternatives separately and chooses the lowest-cost alternative. The following graphic shows the query transformer rewriting an input query that uses&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;code class=&quot;codeph&quot; style=&quot;box-sizing: border-box ; font-family: &amp;quot;courier new&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: inherit ; padding: 0px ; color: inherit ; background: inherit ; border-radius: 4px&quot;&gt;OR&lt;/code&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;into an output query that uses&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;code class=&quot;codeph&quot; style=&quot;box-sizing: border-box ; font-family: &amp;quot;courier new&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: inherit ; padding: 0px ; color: inherit ; background: inherit ; border-radius: 4px&quot;&gt;UNION ALL&lt;/code&gt;.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;fontColor=#404040;" vertex="1" parent="1">
+          <mxGeometry x="390" y="5890" width="730" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
