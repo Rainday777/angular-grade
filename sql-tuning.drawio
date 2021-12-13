@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T08:34:28.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="omoRDA1jQ-w-6KFmpEul" version="15.9.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-13T09:26:31.767Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Ct0A-a6jNMFCHxkF_MY1" version="15.9.4" type="github" pages="3">
   <diagram id="xxkMFbhS_ljfOC89CWoo" name="overall">
-    <mxGraphModel dx="1677" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2465" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="MH13Q9KeE9vLuWCFCkrq-0" />
         <mxCell id="MH13Q9KeE9vLuWCFCkrq-1" parent="MH13Q9KeE9vLuWCFCkrq-0" />
@@ -47,13 +47,13 @@
           <mxGeometry x="70" y="1640" width="460" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LVChm8TNvZxegcR1QrP5-9" value="&lt;h4&gt;&lt;/h4&gt;&lt;h4&gt;&lt;/h4&gt;&lt;h4&gt;&lt;ul&gt;&lt;li&gt;SQL Tuning is a continuous process&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;You need to tune your queries:&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;While creating&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;After the creation&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;When to decide tuning?&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;By checking the top consuming queries frequently&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;After any complaints of bad performance&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;the reason of performance loss&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;structural changes&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Changes on the data volume&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Application Changes&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Aged Statistics&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Database Upgrades&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Database Parameter Changes&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/h4&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="MH13Q9KeE9vLuWCFCkrq-1">
-          <mxGeometry x="50" y="1700" width="630" height="790" as="geometry" />
+          <mxGeometry x="80" y="1680" width="630" height="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="9yYx3cWBsJKRU6WUZeX_" name="Query Optimizer Fundamental">
-    <mxGraphModel dx="1643" dy="-51" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1345" dy="-192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
