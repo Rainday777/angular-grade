@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T07:34:10.720Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="HBnL0FM4VWuvN19PXlva" version="16.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-04T07:44:21.388Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="pHbYIIP3KhfqFjsisDBf" version="16.1.0" type="github" pages="4">
   <diagram id="xxkMFbhS_ljfOC89CWoo" name="overall">
-    <mxGraphModel dx="1666" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1878" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="MH13Q9KeE9vLuWCFCkrq-0" />
         <mxCell id="MH13Q9KeE9vLuWCFCkrq-1" parent="MH13Q9KeE9vLuWCFCkrq-0" />
@@ -53,7 +53,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bkw4jROTsW2EL8dxdjOm" name="oracle DB architecture">
-    <mxGraphModel dx="1666" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1341" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="f7KR5rhGR48Rg2OflenR-0" />
         <mxCell id="f7KR5rhGR48Rg2OflenR-1" parent="f7KR5rhGR48Rg2OflenR-0" />
@@ -97,7 +97,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9yYx3cWBsJKRU6WUZeX_" name="Query Optimizer Fundamental">
-    <mxGraphModel dx="1666" dy="51" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1130" dy="-199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,6 +245,9 @@
         </mxCell>
         <mxCell id="Z2RVQcmLVqN7wXg5QRtu-8" value="GENERAL PLANS&#xa;***************************************&#xa;Considering cardinality-based initial join order.&#xa;Permutations for Starting Table :0&#xa;Join order[1]:  DEPARTMENTS[D]#0  EMPLOYEES[E]#1&#xa; &#xa;***************&#xa;Now joining: EMPLOYEES[E]#1&#xa;***************&#xa;NL Join&#xa;  Outer table: Card: 27.00  Cost: 2.01  Resp: 2.01  Degree: 1  Bytes: 16&#xa;Access path analysis for EMPLOYEES&#xa;. . .&#xa;  Best NL cost: 13.17&#xa;. . .&#xa;SM Join&#xa;  SM cost: 6.08&#xa;     resc: 6.08 resc_io: 4.00 resc_cpu: 2501688&#xa;     resp: 6.08 resp_io: 4.00 resp_cpu: 2501688&#xa;. . .&#xa;SM Join (with index on outer)&#xa;  Access Path: index (FullScan)&#xa;. . .&#xa;HA Join&#xa;  HA cost: 4.57&#xa;     resc: 4.57 resc_io: 4.00 resc_cpu: 678154&#xa;     resp: 4.57 resp_io: 4.00 resp_cpu: 678154&#xa;Best:: JoinMethod: Hash&#xa;       Cost: 4.57  Degree: 1  Resp: 4.57  Card: 106.00 Bytes: 27&#xa;. . .&#xa;&#xa;&#xa;***********************&#xa;Join order[2]:  EMPLOYEES[E]#1  DEPARTMENTS[D]#0&#xa;. . .&#xa; &#xa;***************&#xa;Now joining: DEPARTMENTS[D]#0&#xa;***************&#xa;. . .&#xa;HA Join&#xa;  HA cost: 4.58&#xa;     resc: 4.58 resc_io: 4.00 resc_cpu: 690054&#xa;     resp: 4.58 resp_io: 4.00 resp_cpu: 690054&#xa;Join order aborted: cost &gt; best plan cost&#xa;***********************" style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#404040;" parent="1" vertex="1">
           <mxGeometry x="55" y="11810" width="1020" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu7qj3V9Lz06S-uQGvJs-1" value="&lt;div&gt;&lt;span&gt;Every sql have Hash value (SQL ID)&amp;nbsp; Show in V$SQL.SQL_ID&lt;/span&gt;&lt;/div&gt;Same Statement has Same SQL_ID&lt;br&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="2845" width="340" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
