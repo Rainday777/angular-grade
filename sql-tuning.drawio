@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T06:33:57.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="4ddY4KhA1A6gGCtCQsrm" version="20.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-19T07:44:24.793Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8BZ2XnqmgE8Zi55HpS3P" version="22.1.11" type="github" pages="6">
   <diagram id="xxkMFbhS_ljfOC89CWoo" name="overall">
-    <mxGraphModel dx="1666" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="MH13Q9KeE9vLuWCFCkrq-0" />
         <mxCell id="MH13Q9KeE9vLuWCFCkrq-1" parent="MH13Q9KeE9vLuWCFCkrq-0" />
@@ -53,7 +53,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bkw4jROTsW2EL8dxdjOm" name="oracle DB architecture">
-    <mxGraphModel dx="833" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="f7KR5rhGR48Rg2OflenR-0" />
         <mxCell id="f7KR5rhGR48Rg2OflenR-1" parent="f7KR5rhGR48Rg2OflenR-0" />
@@ -97,7 +97,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rxCWvZfaErP-kLETPs_j" name="execution plan">
-    <mxGraphModel dx="1666" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,7 +111,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9yYx3cWBsJKRU6WUZeX_" name="Query Optimizer Fundamental">
-    <mxGraphModel dx="1666" dy="51" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="39" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -291,7 +291,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5LEIrZhMZ7QXuhw2pX92" name="query Tranformation">
-    <mxGraphModel dx="1149" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KpUHaG1fFGpIMsnSIiiu-0" />
         <mxCell id="KpUHaG1fFGpIMsnSIiiu-1" parent="KpUHaG1fFGpIMsnSIiiu-0" />
@@ -470,6 +470,19 @@
         <UserObject label="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;h3 id=&quot;TGSQL-GUID-B47BEFB3-D72D-462A-9B96-C3B1F8F48C06&quot; class=&quot;sect3&quot; style=&quot;box-sizing: border-box; font-weight: 400; line-height: 1.1; color: rgb(26, 24, 22); margin-top: 20px; margin-bottom: 10px; font-size: 24px; font-style: normal; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(252, 251, 250);&quot;&gt;Join Factorization&lt;/h3&gt;" link="Join Factorization" linkTarget="_blank" id="k_sZXZ7hpa3yIbkLZiHB-58">
           <mxCell style="text;whiteSpace=wrap;html=1;fontSize=17;fontColor=#404040;" parent="KpUHaG1fFGpIMsnSIiiu-1" vertex="1">
             <mxGeometry x="50" y="9810" width="210" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pPBKPqVpi6O41RqTq0Dj" name="refference">
+    <mxGraphModel dx="1434" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="https://docs.oracle.com/en/database/oracle/oracle-database/19/tgsql/sql-performance-fundamentals.html#GUID-DD9CAA74-3E0B-48C9-8770-AADB614BC992" link="https://docs.oracle.com/en/database/oracle/oracle-database/19/tgsql/sql-performance-fundamentals.html#GUID-DD9CAA74-3E0B-48C9-8770-AADB614BC992" id="RmAlWytcVcGFzQshs92W-1">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="50" y="60" width="560" height="50" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
